@@ -1,5 +1,5 @@
 '''
-  Nombre:Marta Lugo López
+  Autor:Marta Lugo López
   Descripcion:Uso de Print 
   Fecha: 9 septiembre 2024
  '''
