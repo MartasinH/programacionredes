@@ -1,7 +1,7 @@
 '''Autor:Marta Lugo López
 Fecha de entrega:26/sep/2024'''
 
-numero = int(input("Ingrese un número entero positivo: "))
+'''numero = int(input("Ingrese un número entero positivo: "))
 pasos = 0
 
 while numero != 1:
@@ -13,4 +13,4 @@ while numero != 1:
         numero = 3 * numero + 1
         print(numero)
 
-print("pasos =", pasos)
+print("pasos =", pasos)'''
