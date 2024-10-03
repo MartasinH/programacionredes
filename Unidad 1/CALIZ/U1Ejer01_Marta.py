@@ -1,5 +1,6 @@
 '''
-Descripcion del scrip:Declarar variables
+Descripcion del scrip:El participante aprenderá a utilizar el uso de variables y operadores en el
+lenguaje de programación Python
 Nombre:Marta Lugo López
 Fecha:03/Oct/2024
 Tema:Fundamentos de Python
