@@ -1,4 +1,5 @@
-
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 # Indicar al usuario que ingrese una palabra
 user_word = print("Ingresa un nombre ")
