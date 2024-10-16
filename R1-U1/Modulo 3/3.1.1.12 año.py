@@ -1,3 +1,5 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 año = int(input("Introduce un año: "))
 
