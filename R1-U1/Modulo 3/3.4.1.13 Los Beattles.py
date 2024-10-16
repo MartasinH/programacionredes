@@ -1,4 +1,6 @@
 
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 # paso 1:
 Beatles = []
 print("Paso 1:", Beatles)
