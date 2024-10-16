@@ -1,4 +1,5 @@
-
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 #Declarar vaariables
 hour = int (input ("Hora de inicio (horas) :") )
 ming = int (input ("Minuto de inicio (minutos): ") )
