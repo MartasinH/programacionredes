@@ -1,4 +1,7 @@
 
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
+
 def is_year_leap(year):
 	if year % 4 != 0:
 		return False
