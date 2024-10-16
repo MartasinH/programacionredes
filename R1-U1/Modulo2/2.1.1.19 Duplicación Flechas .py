@@ -1,0 +1,48 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:'''
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
+
+print("       *")
+print("      * *")
+print("     *   *")
+print("    *     *")
+print("   *       *")
+print(" ****     ***")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *     *")
+print("    *******")
+
+
+print("        *")
+print("       * *")
+print("      *   *")
+print("     *     *")
+print("    *       *")
+print("   *         *")
+print("  *           *")
+print(" *             *")
+print("******     ******")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *******")
+
