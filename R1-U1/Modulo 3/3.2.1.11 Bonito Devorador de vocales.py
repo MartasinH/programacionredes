@@ -1,3 +1,5 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 word_without_vowels = ""
 # Indicar al usuario que ingrese una palabra
