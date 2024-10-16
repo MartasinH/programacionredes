@@ -1,5 +1,6 @@
 
-
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 while True:
 # Escribir código en el cuerpo del bucle.
