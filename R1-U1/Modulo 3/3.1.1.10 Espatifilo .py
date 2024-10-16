@@ -1,4 +1,5 @@
-
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 #Entrada
 dato = input("Nombre de la flor: ")
 #Bloque if /salida
