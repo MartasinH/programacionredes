@@ -1,3 +1,6 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
+
 bloques = int(input("Ingresa la cantidad de bloques: "))
 
 # Inicializar las variables para la altura de la pirámide y la capa actual
