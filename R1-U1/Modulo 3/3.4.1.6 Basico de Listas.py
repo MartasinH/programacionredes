@@ -1,4 +1,5 @@
-
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 hat_list = [1, 2, 3, 4, 5]  # Esta es una lista existente de números ocultos en el sombrero.
 

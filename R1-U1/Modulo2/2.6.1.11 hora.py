@@ -1,3 +1,5 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 hora = int(input("Hora de inicio (horas): "))
 minutos = int(input("Minuto de inicio (minutos): "))

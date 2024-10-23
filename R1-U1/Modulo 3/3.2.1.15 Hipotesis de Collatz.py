@@ -1,3 +1,5 @@
+'''Autor:Marta Lugo López
+Fecha de entrega:24/oct/2024'''
 
 numero = int(input("Ingrese un número entero positivo: "))
 pasos = 0
