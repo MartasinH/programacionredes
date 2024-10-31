@@ -1,6 +1,6 @@
 import requests
 import json
-
+#Api de imagenes de perros
 url = 'https://dog.ceo/api/breeds/list/all'
 
 payload={}
